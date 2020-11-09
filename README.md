@@ -20,3 +20,4 @@ The p-value of lot 1 was way below our standard of 0.05, meaning that we can not
 ###### Figure 6
 ![lot3](/MechaCar_Statistical_Analysis/lot3.png)
 ## Study Design: MechaCar vs. Competition
+For seeing how MechaCar can compete against their competition, we can use a ANOVA test. This tests see if there is a measureable difference between the distribution means from multiple samples. We can use data such as horsepower, maintenance costs, and any categorical or continuous data we deem fit. 
