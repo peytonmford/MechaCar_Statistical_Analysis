@@ -12,7 +12,7 @@ In all three lots, the variance is below 100 pounds per square inch, as shown in
 ###### Figure 3
 ![lotSummary](/MechaCar_Statistical_Analysis/lotSummary.png)
 ## T-Test on Suspension Coils
-
+The p-value of lot 1 was way below our standard of 0.05, meaning that we can not reject the null hypothesis and can be confident that these two means are similar. The p-value of lot 2 is closer to our standard with a 0.0006, but since it is still below the 0.05, we again can say that we will not reject our null hypothesis and these two means are similar. The p-value of lot 3 was 0.16, which is above our standard. We can reject our null hypothesis and can see that these two means are not similar.
 ###### Figure 4
 ![lot1](/MechaCar_Statistical_Analysis/lot1.png)
 ###### Figure 5
