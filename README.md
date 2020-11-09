@@ -13,4 +13,10 @@ In all three lots, the variance is below 100 pounds per square inch, as shown in
 ![lotSummary](/MechaCar_Statistical_Analysis/lotSummary.png)
 ## T-Test on Suspension Coils
 
+###### Figure 4
+![lot1](/MechaCar_Statistical_Analysis/lot1.png)
+###### Figure 5
+![lot2](/MechaCar_Statistical_Analysis/lot2.png)
+###### Figure 6
+![lot3](/MechaCar_Statistical_Analysis/lot3.png)
 ## Study Design: MechaCar vs. Competition
